@@ -1,0 +1,45 @@
+David Alvarez-Melis
+Nada Amin
+Anurag Anshu
+Boaz Barak
+Kianté Brantley
+David Brooks
+Sitan Chen
+Yiling Chen
+Stephen Chong
+Finale Doshi-Velez
+Yilun Du
+Cynthia Dwork
+Jonathan Frankle
+Krzysztof Z Gajos
+Stephanie Gil
+Elena Leah Glassman
+Yannai A. Gonczarowski
+Steven J. Gortler
+Barbara J. Grosz
+Stratos Idreos
+Lucas B Janson
+Sham Kakade
+Eddie Kohler
+H.T. Kung
+Hima Lakkaraju
+Harry R. Lewis
+James Mickens
+Michael D. Mitzenmacher
+Susan A Murphy
+David Parkes
+Hanspeter Pfister
+Ariel Procaccia
+Pavlos Protopapas
+Stuart M. Shieber
+Michael D. Smith
+Madhu Sudan
+Milind Tambe
+Salil P. Vadhan
+Leslie G. Valiant
+Fernanda Viegas
+Jim Waldo
+Martin Wattenberg
+Juncheng Yang
+Minlan Yu
+Jonathan Zittrain

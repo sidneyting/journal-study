@@ -1,0 +1,192 @@
+Ani Adhikari
+Carl Boettiger
+Cathryn Carson
+Federico Echenique
+Joshua Grossman
+Zachary A. Pardos
+Ryan Tibshirani
+John Wawrzynek
+Clancy Wilmott
+Lisa Yan
+Michael Ball
+David Bamman
+Andrew Bray
+Irene Chen
+John DeNero
+Peng Ding
+Sandrine Dudoit
+Ari Edmundson
+Dennis Feehan
+Will Fithian
+Joseph E. Gonzalez
+Adityanand Guntuboyina
+Nika Haghtalab
+David J. Harding
+Marti Hearst
+Joseph M Hellerstein
+Giles Hooker
+Michael I. Jordan
+Anthony D. Joseph
+Eric Kim
+Massimo Mazzotti
+Shobhana Murali Stoyanov
+Jordan Thomas Mursinna
+Narges Norouzi
+Aditya G Parameswaran
+Fernando Pérez
+Elizabeth Purdom
+Daniel Roddy
+Jeremy Sanchez
+Ramesh Sridharan
+Jacob Steinhardt
+Alexander Strang
+Eric Van Dusen
+David Wagner
+Adam Yala
+Bin Yu
+Jennifer Chayes
+Amanda Coston
+Steven Evans
+Avi Feller
+Shirshendu Ganguly
+Ryan Giordano
+Vadim Gorin
+Liberty Hamilton
+Alan Hammond
+Haiyan Huang
+Alex Huth
+Jason Lee
+Michael Mahoney
+Jon McAuliffe
+Song Mei
+Rasmus Nielsen
+Christopher Paciorek
+Sam Pimentel
+Alistair Sinclair
+Yun S. Song
+Philip B. Stark
+Mark van der Laan
+Jingfeng Wu
+Nikita Zhivotovskiy
+Alissa Abdullah
+Elliott Adams
+Mak Ahmad
+Natalie Ahn
+Brooks Ambrose
+Morgan Ames
+Fereshteh Amini
+Judd Antin
+Kay Ashaolu
+Naveen Ashish
+Sahab Aslam
+David Bamman
+Elijah Baucom
+Gerald Benoît
+Amit Bhattacharyya
+Joshua Blumenstock
+Clinton Brownley
+Michael Buckland
+Jenna Burrell
+Mark Butler
+Shiraz Chakraverty
+Jennifer Chayes
+Siinn Che
+Coye Cheshire
+Clarence Chio
+John Chuang
+Bill Chung
+Michael Cooper
+Frank Coyle
+Robert Crawford
+Kevin Crook
+Aaron Crouch
+Danielle Cummings
+Richard Cziva
+Diag Davenport
+Vinicio De Sola
+JP Dolphin
+Deb Donig
+Donna Dueker
+Mary Kay Duggan
+Paul Duguid
+Maya Duru
+Vasha DuTell
+Steph Eaneff
+Aaron Estes
+Steve Fadden
+Nahid Farhady Ghalaty
+Hany Farid
+Jordan Fischer
+Matthew Garrett
+Peter Grabowski
+Scott Guenther
+Davis Hake
+Morten Hansen
+Conor Healy
+Marti Hearst
+Adam Hill
+Jennia Hizver
+Todd Holloway
+Matthew Holmes
+D. Alex Hughes
+Stefanie Hutka
+Pascal Issa
+Kim Jones
+Mitchell Karchemsky
+Mumin Khan
+Jason Kichen
+Gunnar Kleemann
+Saranga Komanduri
+Zona Kostic
+Bum Chul Kwon
+Mark Labovitz
+Paul Laskowski
+Ryan Liu
+Vilena Livinsky
+Jeffrey MacKie-Mason
+Majid Maki
+Taylor Martin
+Jared Maslin
+Rosalind McCullough
+Kathryne Metcalf
+Eric T. Meyer
+Stephen Muchovej
+Mischelle Mulia
+Deirdre Mulligan
+Fred Nugen
+Cornelia Paulik
+Napoleon Paxton
+Senthil Periaswamy
+Tiffany Rad
+Lana Ramjit
+Andy Reagan
+Jamie Reffell
+Korin Reid
+David Reiley
+Michael Rivera
+Tanya Roosta
+Kimiko Ryokai
+Niloufar Salehi
+Pamela Samuelson
+John Santerre
+Ramesh Sarukkai
+Sekhar Sarukkai
+AnnaLee Saxenian
+Doris Schioberg
+Uri Schonfeld
+Joyce Shen
+Paul Spiegelhalter
+Mike Tamir
+Timothy Tangherlini
+Nedelina Teneva
+Laith Ulaby
+Puya H. Vahabi
+Nancy Van House
+Hal Varian
+Steven Weber
+Laurin Weissinger
+Kristy Westphal
+Kira Wetzel
+Ysis Wilson-Tarter
+James York-Winegar
+Jennifer Zhu

@@ -1,0 +1,36 @@
+Hal Abelson
+Mohammad Alizadeh
+Hari Balakrishnan
+Robert Berwick
+Michael Carbin
+Isaac Chuang
+Constantinos Daskalakis
+Frederic Durand
+David Gifford
+W. Eric L Grimson
+Sam Hopkins
+Daniel Huttenlocher
+Piotr Indyk
+Dina Katabi
+Manolis Kellis
+Omar Khattab
+Tim Kraska
+Samuel Madden
+Aleksander Mądry
+Wojciech Matusik
+Muriel Médard
+Alan Oppenheim
+Asu Ozdaglar
+Jonathan Ragan-Kelley
+Martin Rinard
+Ronitt Rubinfeld
+Daniela Rus
+Armando Solar-Lezama
+Justin Solomon
+Alfred Spector
+Gerald Sussman
+Vivienne Sze
+Peter Szolovits
+Vinod Vaikuntanathan
+Ryan Williams
+Virginia Vassilevska Williams
