@@ -1,9 +1,9 @@
-# Journal Study: What are the Top Journals / Conferences in Data Analysis?
+# Journal Study: What are the Top Journals and Conferences in Data Analysis?
 
 ## Overview
 This study explores the publication venues of top research institutions and universities in data analysis. The goal is to gain a clearer idea of what top researchers in the field implicitly "favor" or "deem" as prestigious journals or conferences.
 
-The analysis is compiled in a single notebook `data-mining.ipynb` with code cells and step-by-step explanations. The structure of the notebook follows the workflow illustrated in the figure.
+The analysis is compiled in a single notebook `data_mining.ipynb` with code cells and step-by-step explanations. The structure of the notebook follows the workflow illustrated in the figure.
 
 <div align="center">
   <figure>
@@ -46,19 +46,13 @@ OPENALEX_API_KEY=
 ## Project Structure
 ```
 journal-study/
-├── hr/
-│   ├── train/  
-│   ├── test/   
-│   └── val/    
-├── lr/
-│   ├── train/ 
-│   ├── test/   
-│   └── val/   
-├── hr-mask/
-│   ├── train/ 
-│   ├── test/  
-│   └── val/   
-└── class_dict.csv/
+├── data_mining.ipynb
+├── faculty/  
+├── faculty_ids/
+├── metrics/
+└── 
+└── journal_metrics_2025.csv
+└── .env
 ```
 
 
