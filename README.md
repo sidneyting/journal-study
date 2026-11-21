@@ -47,10 +47,17 @@ OPENALEX_API_KEY=
 ```
 journal-study/
 ├── data_mining.ipynb
-├── faculty/  
+├── faculty/
+│   ├── faculty_cmu.txt
+│   ├── faculty_harvard.txt
+│   └── ...
 ├── faculty_ids/
+│   ├── faculty_cmu_ids.json
+│   ├── faculty_harvard_ids.json
+│   └── ...
 ├── metrics/
-└── 
+│   ├── jif_2025.csv 
+│   └── scimagojr_2025.csv
 └── journal_metrics_2025.csv
 └── .env
 ```
